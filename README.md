@@ -10,4 +10,4 @@ The TechStora name and logo are trademarks of TechStora and may not be used with
 
 Third-party libraries and assets used in this repository remain under their own licenses.
 
-Contact: your-official-email@techstora.com
+Contact: management@techstora.com
